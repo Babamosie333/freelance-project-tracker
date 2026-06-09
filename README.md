@@ -1,5 +1,5 @@
 # Freelance Project Tracker
-##Author: Vikram Singh
+## Author: Vikram Singh
 A MERN stack app to manage freelance client projects, tasks, milestones, and earnings.
 
 ## Features
